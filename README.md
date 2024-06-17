@@ -12,8 +12,8 @@ This project demonstrates how to deploy a simple Flask application to Heroku. Th
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/flask-heroku-deployment.git
-    cd flask-heroku-deployment
+    git clone https://github.com/your-username/sentiment-analysis.git
+    cd sentiment-analysis
     ```
 
 2. **Create a virtual environment**:
@@ -82,4 +82,9 @@ This project demonstrates how to deploy a simple Flask application to Heroku. Th
     ```
 
 ## File Structure
-
+sentiment-analysis/
+│
+├── app.py
+├── requirements.txt
+├── Procfile
+└── README.md
