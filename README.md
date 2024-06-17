@@ -81,9 +81,3 @@ This project demonstrates how to deploy a simple Flask application to Heroku. Th
     heroku open
     ```
 
-## File Structure
-your_project/
-├── app.py
-├── templates/
-│   └── index.html
-└── (other project files)
