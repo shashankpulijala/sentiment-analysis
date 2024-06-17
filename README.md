@@ -82,9 +82,8 @@ This project demonstrates how to deploy a simple Flask application to Heroku. Th
     ```
 
 ## File Structure
-sentiment-analysis/
-│
+your_project/
 ├── app.py
-├── requirements.txt
-├── Procfile
-└── README.md
+├── templates/
+│   └── index.html
+└── (other project files)
